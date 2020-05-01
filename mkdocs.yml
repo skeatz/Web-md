@@ -1,0 +1,17 @@
+site_name: EP1000 DFab
+site_favicon: favicon.ico
+nav:
+  - Home: index.md
+  - Course: 
+    - Fablab Safety: safety.md
+    - Project Management: proj-mgmt.md
+    - Web Development: web.md
+    - Computer Aided Design: cad.md
+    - Embedded Programming: embedded.md
+    - 3D Printing: 3dprint.md
+    - Laser Cutting: laser.md
+  - Final Project: project.md
+  - About: about.md
+  - Contact: contact.md
+theme: material
+plugins: []
