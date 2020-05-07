@@ -1,5 +1,5 @@
 site_name: EP1000 DFab
-theme: readthedocs
+theme: material
 site_favicon: favicon.ico
 nav:
   - Home: index.md
