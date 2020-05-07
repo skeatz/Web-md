@@ -1,4 +1,5 @@
 site_name: EP1000 DFab
+theme: material
 site_favicon: favicon.ico
 nav:
   - Home: index.md
@@ -13,5 +14,3 @@ nav:
   - Final Project: project.md
   - About: about.md
   - Contact: contact.md
-theme: material
-plugins: []
