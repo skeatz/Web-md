@@ -1,6 +1,16 @@
 site_name: EP1000 DFab
-theme: material
-site_favicon: favicon.ico
+theme:
+  name: material
+  # see https://squidfunk.github.io/mkdocs-material/getting-started/#color-palette
+  palette:
+    primary: "deep"
+    accent: "indigo"
+  font:
+    false
+    # text: "Ubuntu"
+    # code: "Ubuntu Mono"
+  feature:
+    tabs: true
 nav:
   - Home: index.md
   - Course: 
@@ -16,4 +26,11 @@ nav:
   - Contact: contact.md
 plugins:
   - search
-  
+markdown_extensions:
+  - extra
+  - smarty
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
