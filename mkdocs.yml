@@ -14,3 +14,6 @@ nav:
   - Final Project: project.md
   - About: about.md
   - Contact: contact.md
+plugins:
+  - search
+  

@@ -2,7 +2,7 @@
 
 ## Hello, new student!
 
-![](./img/week01/assignment-photo.jpg)
+![](./img/assignment-photo.jpg)
 
 ## Welcome to your new DFab module site
 
